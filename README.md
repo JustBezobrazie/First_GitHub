@@ -1,2 +1,2 @@
 # First_Git
-*Its just my first repository here*
+*It's just my first repository here*
